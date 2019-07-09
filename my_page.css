@@ -1,1 +1,5 @@
-#haiku {color:white; background-color:gray;}
+/* Style for Haiku in my_page.html */
+#haiku {
+  color:white; 
+  background-color:gray;
+}
